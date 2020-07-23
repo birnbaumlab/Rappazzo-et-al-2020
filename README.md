@@ -25,5 +25,5 @@ We trained the NNAlign-2.0 algorithm (Morten & Andreatta, 2017) on yeast display
 We generated test sets of peptides which included expression-matched decoy peptides. An example script for generating these tests sets is included in this repository:
 - Expression_Matched_Decoy_Peptides_Generator.py
 
-## Authors
+## Code Authors
 Brooke D. Huisman & C. Garrett Rappazzo, Birnbaum Lab
