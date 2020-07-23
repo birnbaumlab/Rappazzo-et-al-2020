@@ -14,7 +14,7 @@ The in-house scripts comprising our pipeline are:
 	- Groups peptides with same amino acid sequence but different peptide DNA encoding
 
 ## NNAlign-Trained Models
-We trained the NNAlign algorithm (Morten & Andreatta, 2017) on yeast display (YD) and mass spectrometry (MS) data. The resulting models files including the model parameters are included in this repository:
+We trained the NNAlign-2.0 algorithm (Morten & Andreatta, 2017) on yeast display (YD) and mass spectrometry (MS) data. The resulting model files can be uploaded to NNAlign to perform additional predictions. These model files are included in this repository:
 - 401_9mer_YD-trained_model.txt
 - 401_13mer_YD-trained_model.txt
 - 401_MS-trained_model.txt
