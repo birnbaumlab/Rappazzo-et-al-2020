@@ -1,4 +1,4 @@
-# HLA-DR401
+# Scripts from Rappazzo et al 2020
 This repository is a collection of scripts utilized in "Repertoire-scale determination of class II MHC peptide binding via yeast display improves antigen prediction".
 
 ## Processing Sequencing Data
